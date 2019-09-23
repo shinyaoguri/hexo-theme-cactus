@@ -24,9 +24,9 @@ nav:
 # only 'mail' is an exception.
 social_links:
   github: http://github.com/shinyaoguri
-  twitter: ogrium
-  facebook: shinya.ogu
-  linkedin: ogrium
+  twitter: https://twitter.com/ogrium
+  facebook: fb.me/shinya.ogu
+  linkedin: https://www.linkedin.com/in/ogrium/
   mail: ogrium@nagoya-u.jp
 
 # Customize the overview with displaying a tagcloud on the index page.
