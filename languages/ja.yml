@@ -1,13 +1,14 @@
 nav:
-  home: Home
+  home: ホーム
   about: About
   articles: Writing
   tag: Tag
   category: Category
   projects: Projects
   search: Search
-  contact: Contact
-  vitae: Vitae
+  contact: 連絡先
+  vitae: 履歴
+  material: 資料
 
 footer:
   copyright: Copyright
